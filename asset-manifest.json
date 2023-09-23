@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rushikeshportfolio/static/css/main.4068108e.css",
+    "main.js": "/rushikeshportfolio/static/js/main.ca675d5d.js",
+    "static/js/787.dbbd0357.chunk.js": "/rushikeshportfolio/static/js/787.dbbd0357.chunk.js",
+    "static/media/OOPS_img.jpg": "/rushikeshportfolio/static/media/OOPS_img.054bc8f218c7e42cf26b.jpg",
+    "static/media/Python-logo.png": "/rushikeshportfolio/static/media/Python-logo.dea924d737bb84eb9ce3.png",
+    "static/media/homepage.png": "/rushikeshportfolio/static/media/homepage.734c91a6bd2504fd2381.png",
+    "static/media/photo.jpg": "/rushikeshportfolio/static/media/photo.359d8d792556f2afa4bc.jpg",
+    "static/media/javascript-logo.png": "/rushikeshportfolio/static/media/javascript-logo.7f8751632b42a9932c15.png",
+    "static/media/github-image.webp": "/rushikeshportfolio/static/media/github-image.010a2fd15fdc36a3ffbf.webp",
+    "static/media/portfolio.png": "/rushikeshportfolio/static/media/portfolio.dc476f46a683510c8125.png",
+    "static/media/java-logo.webp": "/rushikeshportfolio/static/media/java-logo.ccb317e0447a00ecb69f.webp",
+    "static/media/newsifyy.png": "/rushikeshportfolio/static/media/newsifyy.35b124a204c45094ef3f.png",
+    "static/media/instagram.png": "/rushikeshportfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/blockchain_img.avif": "/rushikeshportfolio/static/media/blockchain_img.ae66edf1b72a65914fe8.avif",
+    "index.html": "/rushikeshportfolio/index.html",
+    "main.4068108e.css.map": "/rushikeshportfolio/static/css/main.4068108e.css.map",
+    "main.ca675d5d.js.map": "/rushikeshportfolio/static/js/main.ca675d5d.js.map",
+    "787.dbbd0357.chunk.js.map": "/rushikeshportfolio/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4068108e.css",
+    "static/js/main.ca675d5d.js"
+  ]
+}
