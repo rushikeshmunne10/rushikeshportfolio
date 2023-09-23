@@ -1,0 +1,47 @@
+#projects {
+    height: 100vh;
+    width: 100vw;
+    max-width: 70rem;
+    display: flexbox;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    text-align: left;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+}
+
+.projTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.projectBar {
+    background: rgb(50, 50, 50);
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+}
+
+.projectBars {
+    margin: 1.5rem;
+    width: 100vm;
+    max-width: 100%;
+    text-align: left;
+}
+.projectBarImg {
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2rem;
+}
+
+.projectBarText>p{
+    font-size: 1rem;
+    font-weight: 100;
+}
